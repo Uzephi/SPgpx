@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>Turkey GPX</name>
+  <trkseg>
+    <trkpt lat="38.462731" lon="27.217688"></trkpt>
+    <trkpt lat="38.462603" lon="27.217789"></trkpt>
+    <trkpt lat="38.462619" lon="27.218004"></trkpt>
+    <trkpt lat="38.462672" lon="27.218206"></trkpt>
+    <trkpt lat="38.462813" lon="27.218162"></trkpt>
+    <trkpt lat="38.462779" lon="27.217893"></trkpt>
+    <trkpt lat="38.462908" lon="27.217898"></trkpt>
+    <trkpt lat="38.463035" lon="27.217588"></trkpt>
+    <trkpt lat="38.463296" lon="27.217692"></trkpt>
+    <trkpt lat="38.46339" lon="27.217307"></trkpt>
+    <trkpt lat="38.463832" lon="27.217007"></trkpt>
+    <trkpt lat="38.463515" lon="27.216628"></trkpt>
+    <trkpt lat="38.463359" lon="27.216578"></trkpt>
+    <trkpt lat="38.463145" lon="27.216555"></trkpt>
+    <trkpt lat="38.462998" lon="27.216569"></trkpt>
+    <trkpt lat="38.462762" lon="27.216569"></trkpt>
+    <trkpt lat="38.462624" lon="27.216672"></trkpt>
+    <trkpt lat="38.462486" lon="27.216873"></trkpt>
+    <trkpt lat="38.462441" lon="27.21678"></trkpt>
+    <trkpt lat="38.462283" lon="27.216824"></trkpt>
+    <trkpt lat="38.462347" lon="27.216953"></trkpt>
+    <trkpt lat="38.462492" lon="27.217395"></trkpt>
+    <trkpt lat="38.462091" lon="27.217029"></trkpt>
+    <trkpt lat="38.461928" lon="27.217575"></trkpt>
+    <trkpt lat="38.461905" lon="27.217723"></trkpt>
+    <trkpt lat="38.461766" lon="27.217419"></trkpt>
+    <trkpt lat="38.461362" lon="27.217186"></trkpt>
+    <trkpt lat="38.461538" lon="27.216822"></trkpt>
+    <trkpt lat="38.46178" lon="27.216637"></trkpt>
+    <trkpt lat="38.461921" lon="27.216365"></trkpt>
+    <trkpt lat="38.462044" lon="27.215944"></trkpt>
+    <trkpt lat="38.462125" lon="27.216231"></trkpt>
+    <trkpt lat="38.462388" lon="27.216258"></trkpt>
+    <trkpt lat="38.462303" lon="27.216517"></trkpt>
+    <trkpt lat="38.462554" lon="27.216378"></trkpt>
+    <trkpt lat="38.462778" lon="27.216388"></trkpt>
+    <trkpt lat="38.462877" lon="27.216241"></trkpt>
+    <trkpt lat="38.463004" lon="27.21621"></trkpt>
+    <trkpt lat="38.463272" lon="27.216323"></trkpt>
+    <trkpt lat="38.463384" lon="27.216231"></trkpt>
+    <trkpt lat="38.463474" lon="27.21634"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>Chicago Navy Pier</name>
+  <trkseg>
+    <trkpt lat="41.892207" lon="-87.598934"></trkpt>
+    <trkpt lat="41.891847" lon="-87.598637"></trkpt>
+    <trkpt lat="41.8915" lon="-87.598916"></trkpt>
+    <trkpt lat="41.891773" lon="-87.599428"></trkpt>
+    <trkpt lat="41.891763" lon="-87.599825"></trkpt>
+    <trkpt lat="41.891948" lon="-87.600188"></trkpt>
+    <trkpt lat="41.89123" lon="-87.600699"></trkpt>
+    <trkpt lat="41.89145" lon="-87.601116"></trkpt>
+    <trkpt lat="41.891413" lon="-87.601832"></trkpt>
+    <trkpt lat="41.89132" lon="-87.602619"></trkpt>
+    <trkpt lat="41.891773" lon="-87.602586"></trkpt>
+    <trkpt lat="41.891407" lon="-87.603746"></trkpt>
+    <trkpt lat="41.891255" lon="-87.604241"></trkpt>
+    <trkpt lat="41.891115" lon="-87.604886"></trkpt>
+    <trkpt lat="41.891086" lon="-87.605158"></trkpt>
+    <trkpt lat="41.891181" lon="-87.606106"></trkpt>
+    <trkpt lat="41.891685" lon="-87.607105"></trkpt>
+    <trkpt lat="41.891829" lon="-87.607855"></trkpt>
+    <trkpt lat="41.891504" lon="-87.608113"></trkpt>
+    <trkpt lat="41.891602" lon="-87.608578"></trkpt>
+    <trkpt lat="41.891088" lon="-87.608595"></trkpt>
+    <trkpt lat="41.891336" lon="-87.609141"></trkpt>
+    <trkpt lat="41.891332" lon="-87.609518"></trkpt>
+    <trkpt lat="41.891383" lon="-87.610138"></trkpt>
+    <trkpt lat="41.890712" lon="-87.609676"></trkpt>
+    <trkpt lat="41.89017" lon="-87.609582"></trkpt>
+    <trkpt lat="41.891065" lon="-87.61055"></trkpt>
+    <trkpt lat="41.891136" lon="-87.610875"></trkpt>
+    <trkpt lat="41.891656" lon="-87.610837"></trkpt>
+    <trkpt lat="41.89155" lon="-87.611756"></trkpt>
+    <trkpt lat="41.891056" lon="-87.612078"></trkpt>
+    <trkpt lat="41.891" lon="-87.612811"></trkpt>
+    <trkpt lat="41.891104" lon="-87.613697"></trkpt>
+    <trkpt lat="41.891774" lon="-87.613707"></trkpt>
+    <trkpt lat="41.892543" lon="-87.613398"></trkpt>
+    <trkpt lat="41.893083" lon="-87.613518"></trkpt>
+    <trkpt lat="41.89284" lon="-87.612102"></trkpt>
+    <trkpt lat="41.896156" lon="-87.610071"></trkpt>
+    <trkpt lat="41.894684" lon="-87.609949"></trkpt>
+    <trkpt lat="41.89196" lon="-87.609818"></trkpt>
+    <trkpt lat="41.891777" lon="-87.603972"></trkpt>
+    <trkpt lat="41.892112" lon="-87.59978"></trkpt>
+  </trkseg>
+</trk>
+</gpx>
